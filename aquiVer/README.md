@@ -1,5 +1,3 @@
-# Project-McLovin
-
 ## Setting up Intellij Configurations
 
 1. Download JavaFX 11.0.2 from https://gluonhq.com/products/javafx/
